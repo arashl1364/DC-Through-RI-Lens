@@ -1,6 +1,5 @@
-# RI-MAMA
 
-# Replication files for "Rational Inattention through the Lens of Marketing"
+# Replication files for "Discrete Choice in Marketing through the Lens of Rational Inattention"
 
 Structured as follows:
 
