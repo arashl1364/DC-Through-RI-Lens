@@ -1,0 +1,7 @@
+Notes:
+
+ All functions to replicate figures and tables are found in the three main files in first folder.
+
+ Figures and scripts to replicate figures and tables from the paper are found in the folders named after the respective section. 
+
+ All files can be executed separately after sourcing the three main files in first folder (set working directory accordingly, files include source commands).
